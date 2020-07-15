@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
+[![Portfolio Preview](/assets/img/Website.png)](Portfolio)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://maheshg23.github.io/)**
 
 ## Status
 
