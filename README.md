@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Portfolio Preview](/assets/img/Website.png)](Portfolio)
+[![Portfolio Preview](img/Website.png)](Portfolio)
 
 **[View Live Preview](https://maheshg23.github.io/)**
 
